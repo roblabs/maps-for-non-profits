@@ -1,0 +1,588 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wynn Mill Park",
+        "leisure": "park",
+        "amenity": "delete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91069,
+          44.533685
+        ]
+      },
+      "id": "04d937407ec58dfb18c22f144753ab09"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Booth Park",
+        "leisure": "park",
+        "amenity": "delete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.900362,
+          44.538631
+        ]
+      },
+      "id": "0df16f07fe25a85b1b943e9bb2d07396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Century Park",
+        "leisure": "park",
+        "amenity": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.913591,
+          44.542742
+        ]
+      },
+      "id": "0fdd033a743f718674cce08b6188384e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Christopher Columbus Park",
+        "leisure": "park",
+        "amenity": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.920423,
+          44.517479
+        ]
+      },
+      "id": "1967a0ba1108f0f06b1c6a3b93dd8ab6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "delete",
+        "name": "Pioneer School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.914174,
+          44.550292
+        ]
+      },
+      "id": "1d99ed407663079da79a0ac70871b769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "school",
+        "name": "Seven Oak Middle School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.892663,
+          44.51071
+        ]
+      },
+      "id": "359e6474218e6456f50b0854883a0b5c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bob Smith Memorial Park",
+        "leisure": "park",
+        "amenity": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.905927,
+          44.516923
+        ]
+      },
+      "id": "37b3887257e58b4862bcf0907a3e06a0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fire Station",
+        "amenity": "delete",
+        "svg": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.881483,
+          44.50969
+        ]
+      },
+      "id": "37e3b6214e5ac5bfe4e66a902c790c84"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lebanon Library",
+        "amenity": "library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.908878,
+          44.544978
+        ]
+      },
+      "id": "41d4344228ec0a5b3429b41f0184265c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Veterans Home",
+        "amenity": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91529,
+          44.552204
+        ]
+      },
+      "id": "49d87dd3003f7e591213a9f2efd3102d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Les Schwab",
+        "amenity": "delete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.906619,
+          44.524299
+        ]
+      },
+      "id": "53818d5909ea0ca8635ae6882ba211c4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "school",
+        "name": "Lebanon High School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.913263,
+          44.529899
+        ]
+      },
+      "id": "563fa83697ce1ed22a3849c82c666473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chamber of Commerce",
+        "amenity": "delete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90622,
+          44.53514
+        ]
+      },
+      "id": "5eedb87a67cb2f45930926329aee8c7a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Had Irvine Park",
+        "leisure": "park",
+        "amenity": "delete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.899450,
+            44.546636
+        ]
+      },
+      "id": "684c971c73918685abb2957f632cdd19"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boulder Falls Center",
+        "amenity": "delete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.909461,
+          44.551339
+        ]
+      },
+      "id": "6bd7e6d0b1373e5086797ee1207c62bc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boys & Girls Club of Lebanon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.912508,
+          44.542905
+        ]
+      },
+      "id": "72d0426bc0f9b92f70e06d3cee739326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "River Park",
+        "leisure": "park",
+        "amenity": "delete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.89126396179199,
+          44.53886352074874
+        ]
+      },
+      "id": "7eb11595ef989b46de07341a3a26f190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samaritan Hospital",
+        "svg": "hospital-black-22.svg",
+        "amenity": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.906532,
+          44.550436
+        ]
+      },
+      "id": "948a853f27e8bade7b46ecae8fc38dda"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City Hall",
+        "amenity": "delete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.906674,
+          44.537185
+        ]
+      },
+      "id": "9625e66698f7963e4fa0c3cbb74fc4c6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "school",
+        "name": "Riverview School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.890898,
+          44.526179
+        ]
+      },
+      "id": "9b0a7ea1bfc38b51a7bbc2de5a572d96"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "school",
+        "name": "Green Acres School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.922275,
+          44.538211
+        ]
+      },
+      "id": "a4a3a6f23a2bdd44172f6beea0bd84ae"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "place_name": "44 Industrial Way, Lebanon, Oregon 97355, United States",
+        "name": "LBCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.906833,
+          44.548174
+        ]
+      },
+      "id": "address.5997770953929350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Summit Ace",
+        "amenity": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.922581,
+          44.545437
+        ]
+      },
+      "id": "ae65ca79249c2cefe98748f4ffe0911e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "school",
+        "name": "Cascades School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.915769,
+          44.525096
+        ]
+      },
+      "id": "af53e3703051f4b657bfbb5b75bfedea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lebanon Fire Station",
+        "amenity": "fire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.92307,
+          44.535962
+        ]
+      },
+      "id": "c9bebc21a19d5d7520182d94ef9c65f1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riverview Park",
+        "leisure": "park",
+        "amenity": "delete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.889135,
+          44.524733
+        ]
+      },
+      "id": "ca6b47b62d51febac07ffed2ae913aa0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medical School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.910476,
+          44.549241
+        ]
+      },
+      "id": "cd10788399afe544ff7511128afe7ed1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gill's Landing",
+        "leisure": "park",
+        "amenity": "delete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.889277,
+          44.537614
+        ]
+      },
+      "id": "cedb6a51c31354f408df276a5920099b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Safeway",
+        "amenity": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.905532,
+          44.527268
+        ]
+      },
+      "id": "d6433e7fd9b4e77776d7f47aeb9d2170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ralston Park",
+        "leisure": "park",
+        "amenity": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.905115,
+          44.537279
+        ]
+      },
+      "id": "e8fa670bef1f02ec0f76ea503d6dccec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cheadle Lake Park",
+        "amenity": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.881071,
+            44.511334
+        ]
+      },
+      "id": "eab13d63ed13a7191fe13afa4a2a703e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cheadle Lake",
+        "leisure": "",
+        "amenity": "water",
+        "svg": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.89096355438231,
+          44.516689938095766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "S. Santiam River",
+        "amenity": "water"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.89306640624999,
+            44.5446369041842
+          ],
+          [
+            -122.89304494857788,
+            44.543948716347266
+          ],
+          [
+            -122.8928303718567,
+            44.54345933338029
+          ],
+          [
+            -122.89250850677492,
+            44.542908772625
+          ],
+          [
+            -122.892165184021,
+            44.542189977136125
+          ],
+          [
+            -122.89165019989012,
+            44.541593523078184
+          ],
+          [
+            -122.89126396179199,
+            44.54110412031292
+          ],
+          [
+            -122.89096355438231,
+            44.540645301484176
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Walmart",
+        "amenity": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90072679519655,
+          44.51685824129125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name1": "Porter park",
+        "leisure": "",
+        "amenity": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.904025,
+            44.524035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "leisure": "",
+        "amenity": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.89484739303589,
+          44.549824813966175
+        ]
+      }
+    }
+  ]
+}
