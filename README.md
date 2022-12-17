@@ -24,7 +24,7 @@ November 2021 - final version `v2021-11-02`
 
 This [#mapsForNonProfits](https://mobile.twitter.com/search?q=%23mapsForNonProfits) was custom built for the Sierra Club San Diego.  The North County Group is highlighting their [50 Hike Challenge](https://wbc.sierraclubncg.org/50-hike-challenge/).
 
-* Link to the full screen map at [3LineMaps.com](https://3linemaps.com/50.html)
+* Link to the full screen map at [roblabs.com](https://roblabs.com/50)
 * See release link [v2021-05-27](https://github.com/roblabs/maps-for-non-profits/releases/tag/v2021-05-27) for more details
 
 <img width="33%" src="https://user-images.githubusercontent.com/118112/120077936-c090ae00-c061-11eb-85bd-d84c6ade1314.png">
